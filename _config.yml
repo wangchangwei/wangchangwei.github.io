@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Macs
+title: W
 subtitle: 士不可以不弘毅，任重而道远
 description:
 author: Macs
@@ -83,7 +83,7 @@ keywords: "Jekyll, NexT"
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss:
+rss: false
 
 # Specify the date when the site was setup
 #since: 2015
@@ -118,9 +118,9 @@ index_with_subtitle: false
 menu:
   home: /
   categories: /categories/
-  about: /about/
+  # about: /about/
   #archives: /archives/
-  tags: /tags/
+  # tags: /tags/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
