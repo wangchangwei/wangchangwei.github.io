@@ -550,7 +550,7 @@ From すぐ使えるダミーテキスト - 日本語 Lorem ipsum
   
     <entry>
       <title>中文測試</title>
-      <url>/test/test/2013/12/25/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</url>
+      <url>/%E5%88%86%E7%B1%BB/2013/12/25/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</url>
       <content type="text">This is a Chinese test post.
 
 善我王上魚、產生資西員合兒臉趣論。畫衣生這著爸毛親可時，安程幾？合學作。觀經而作建。都非子作這！法如言子你關！手師也。
@@ -569,10 +569,12 @@ From 亂數假文產生器 - Chinese Lorem Ipsum
 </content>
       <categories>
         
-          <category> test/test </category>
+          <category> 分类 </category>
         
       </categories>
       <tags>
+        
+          <tag> 标签一 </tag>
         
       </tags>
       <tags></tags>
